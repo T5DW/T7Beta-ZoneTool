@@ -1,8 +1,0 @@
-set_project("T7BetaZT")
-set_version("0.1.0")
-add_rules("mode.debug", "mode.release")
-target("T7BetaZT")
-    set_kind("binary")
-    set_languages("cxx17", "c17")
-    add_includedirs("Src/thirdparty/lz4")
-    add_files("Src/t7/main.cpp", "Src/thirdparty/lz4/lz4.c")
