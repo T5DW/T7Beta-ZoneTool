@@ -2,7 +2,7 @@
 
 A fastfile tool and weapon asset workflow for **T7MP-MOD**, targeting the **August 21, 2015 Black Ops III multiplayer prototype on PC**.
 
-**By T5DW**
+**By T5DW & Xer0**
 
 ## Features
 
