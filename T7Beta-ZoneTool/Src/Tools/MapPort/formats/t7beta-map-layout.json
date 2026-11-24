@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "build": "T7 August 21 2015 PC",
+  "evidence": "Live Stronghold snapshot, seven immutable buffers matched byte-for-byte against decompressed mp_stronghold.ff; loader disassembly used for parent fields.",
+  "gfxWorld": {
+    "size": 8256,
+    "surfaceCount": 24,
+    "draw": 632,
+    "dpvsStatic": 792
+  },
+  "vertexStream0": {
+    "stride": 12,
+    "fields": {
+      "0x0": "float3 position"
+    }
+  },
+  "vertexStream1": {
+    "stride": 20,
+    "status": "stride verified; attribute interpretation provisional",
+    "fields": {
+      "0x0": "candidate RGBA8",
+      "0x4": "candidate float2 texture UV",
+      "0xc": "candidate unsigned biased 10:10:10 normal",
+      "0x10": "candidate unsigned biased 10:10:10 tangent, bit31 handedness"
+    }
+  },
+  "gfxSurface": {
+    "stride": 96,
+    "fields": {
+      "0x0": "float3 inflated mins",
+      "0xc": "uint32 position byte offset",
+      "0x10": "float3 inflated maxs",
+      "0x1c": "uint32 attribute byte offset",
+      "0x20": "unresolved uint32",
+      "0x24": "unresolved float",
+      "0x28": "unresolved uint16; not a reliable per-surface vertex count",
+      "0x2a": "uint16 triangle count",
+      "0x2c": "uint32 first index",
+      "0x30": "float3 uninflated mins",
+      "0x3c": "float3 uninflated maxs",
+      "0x48": "Material* relocation",
+      "0x50": "unresolved flags"
+    },
+    "indexing": "uint16 indices local to a shared vertex batch, addressed by the two byte offsets"
+  },
+  "cbrush": {
+    "stride": 112,
+    "fields": {
+      "0x0": "float3 mins",
+      "0xc": "int32 contents",
+      "0x10": "float3 maxs",
+      "0x1c": "uint32 side count",
+      "0x20": "cbrushside*",
+      "0x28": "int32 axial content flags[2][3]",
+      "0x40": "int32 axial surface flags[2][3]",
+      "0x58": "uint32 vertex count",
+      "0x60": "float3* vertices"
+    },
+    "coverage": "All captured brush side and vertex ranges validated."
+  },
+  "cbrushside": {
+    "stride": 16,
+    "fields": {
+      "0x0": "cplane*",
+      "0x8": "int32 content flags",
+      "0xc": "int32 surface flags"
+    }
+  },
+  "leafBrushNode": {
+    "stride": 24,
+    "fields": {
+      "0x0": "uint8 axis",
+      "0x2": "int16 leaf brush count",
+      "0x4": "int32 contents",
+      "0x8": "union leaf uint16* / children float distance, float range, uint16 child offsets[2]"
+    },
+    "coverage": "107 positive-count nodes reference leaf lists beyond the captured top-level leaf array. Those ranges are recorded explicitly; complete leaf graph decoding pending."
+  },
+  "optionalBrushBoundsAndContents": "Both root pointers null in the supplied live capture. Brush bounds and contents are already embedded in cbrush records.",
+  "runtimePointers": "For inspection only. Never copy captured virtual addresses into a generated fastfile.",
+  "playable": false
+}

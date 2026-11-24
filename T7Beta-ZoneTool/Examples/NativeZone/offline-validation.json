@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "build": "T7 August 21 2015 PC",
+  "playableNuketown": false,
+  "checks": {
+    "nativeStoredAndZlibContainers": "passed",
+    "eightMiBPageBoundary": "passed",
+    "mapEntsAndAllTriggerBytesMatchLiveReference": "passed",
+    "corruptDataAndOverwriteRejection": "passed",
+    "cppAndPythonProbePayloadsEqual": "passed",
+    "cppClientProbeValidationAndCommandQueueFixture": "passed",
+    "cppClientExistingFilePreservation": "passed",
+    "all1993StagedSourceSurfacesPreserved": "passed",
+    "windowsCrossCompilation": "passed",
+    "engineNativeLoading": "not tested",
+    "fullMapSerialization": "not implemented"
+  },
+  "binaries": {
+    "d3d11.dll": {
+      "bytes": 3047936,
+      "sha256": "b5cd39be01703815b04d22b42c9837b4f6352a47d3d5613cf7fca6da404e17ca",
+      "machine": "AMD64",
+      "executionInGame": "not tested"
+    },
+    "T7BetaZT.exe": {
+      "bytes": 1169920,
+      "sha256": "8671afaf27610ff6c305b379e89d2fd9f669a0ebc7a8510f8b79b036c3cb05ab",
+      "machine": "AMD64",
+      "executionInGame": "not tested"
+    }
+  }
+}

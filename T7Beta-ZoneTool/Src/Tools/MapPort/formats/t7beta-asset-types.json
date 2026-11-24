@@ -1,0 +1,608 @@
+[
+  {
+    "type": 0,
+    "name": "physpreset",
+    "nativeSize": 120,
+    "sizeFunctionRva": "0x1a0c30"
+  },
+  {
+    "type": 1,
+    "name": "physconstraints",
+    "nativeSize": 1680,
+    "sizeFunctionRva": "0x1a0c50"
+  },
+  {
+    "type": 2,
+    "name": "destructibledef",
+    "nativeSize": 48,
+    "sizeFunctionRva": "0x1a0c70"
+  },
+  {
+    "type": 3,
+    "name": "xanim",
+    "nativeSize": 248,
+    "sizeFunctionRva": "0x1a0c90"
+  },
+  {
+    "type": 4,
+    "name": "xmodel",
+    "nativeSize": 368,
+    "sizeFunctionRva": "0x1a0cb0"
+  },
+  {
+    "type": 5,
+    "name": "xmodelmesh",
+    "nativeSize": 120,
+    "sizeFunctionRva": "0x1a0cd0"
+  },
+  {
+    "type": 6,
+    "name": "material",
+    "nativeSize": 672,
+    "sizeFunctionRva": "0x1a0ce0"
+  },
+  {
+    "type": 7,
+    "name": "computeshaderset",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a0cf0"
+  },
+  {
+    "type": 8,
+    "name": "techset",
+    "nativeSize": 112,
+    "sizeFunctionRva": "0x1a0d10"
+  },
+  {
+    "type": 9,
+    "name": "image",
+    "nativeSize": 264,
+    "sizeFunctionRva": "0x1a0d30"
+  },
+  {
+    "type": 10,
+    "name": "sound",
+    "nativeSize": 139440,
+    "sizeFunctionRva": "0x1a0d40"
+  },
+  {
+    "type": 11,
+    "name": "sound_patch",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a0d60"
+  },
+  {
+    "type": 12,
+    "name": "col_map",
+    "nativeSize": 720,
+    "sizeFunctionRva": "0x1a0d80"
+  },
+  {
+    "type": 13,
+    "name": "com_map",
+    "nativeSize": 104,
+    "sizeFunctionRva": "0x1a0da0"
+  },
+  {
+    "type": 14,
+    "name": "game_map",
+    "nativeSize": 80,
+    "sizeFunctionRva": "0x1a0dc0"
+  },
+  {
+    "type": 15,
+    "name": "map_ents",
+    "nativeSize": 72,
+    "sizeFunctionRva": "0x1a0dd0"
+  },
+  {
+    "type": 16,
+    "name": "gfx_map",
+    "nativeSize": 8256,
+    "sizeFunctionRva": "0x1a0df0"
+  },
+  {
+    "type": 17,
+    "name": "lightdef",
+    "nativeSize": 40,
+    "sizeFunctionRva": "0x1a0e10"
+  },
+  {
+    "type": 18,
+    "name": "lensflaredef",
+    "nativeSize": 536,
+    "sizeFunctionRva": "0x1a0e30"
+  },
+  {
+    "type": 19,
+    "name": "ui_map",
+    "nativeSize": null,
+    "sizeFunctionRva": null
+  },
+  {
+    "type": 20,
+    "name": "font",
+    "nativeSize": 56,
+    "sizeFunctionRva": "0x1a0e50"
+  },
+  {
+    "type": 21,
+    "name": "fonticon",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a0e60"
+  },
+  {
+    "type": 22,
+    "name": "localize",
+    "nativeSize": 16,
+    "sizeFunctionRva": "0x1a0e80"
+  },
+  {
+    "type": 23,
+    "name": "weapon",
+    "nativeSize": 768,
+    "sizeFunctionRva": "0x1a0ea0"
+  },
+  {
+    "type": 24,
+    "name": "weapondef",
+    "nativeSize": null,
+    "sizeFunctionRva": null
+  },
+  {
+    "type": 25,
+    "name": "weaponvariant",
+    "nativeSize": null,
+    "sizeFunctionRva": null
+  },
+  {
+    "type": 26,
+    "name": "weaponfull",
+    "nativeSize": null,
+    "sizeFunctionRva": null
+  },
+  {
+    "type": 27,
+    "name": "cgmediatable",
+    "nativeSize": 1056,
+    "sizeFunctionRva": "0x1a0ec0"
+  },
+  {
+    "type": 28,
+    "name": "playersoundstable",
+    "nativeSize": 1096,
+    "sizeFunctionRva": "0x1a0ee0"
+  },
+  {
+    "type": 29,
+    "name": "playerfxtable",
+    "nativeSize": 152,
+    "sizeFunctionRva": "0x1a0ef0"
+  },
+  {
+    "type": 30,
+    "name": "sharedweaponsounds",
+    "nativeSize": 240,
+    "sizeFunctionRva": "0x1a0f10"
+  },
+  {
+    "type": 31,
+    "name": "attachment",
+    "nativeSize": 416,
+    "sizeFunctionRva": "0x1a0f30"
+  },
+  {
+    "type": 32,
+    "name": "attachmentunique",
+    "nativeSize": 2064,
+    "sizeFunctionRva": "0x1a0f50"
+  },
+  {
+    "type": 33,
+    "name": "weaponcamo",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a0f70"
+  },
+  {
+    "type": 34,
+    "name": "customizationtable",
+    "nativeSize": 40,
+    "sizeFunctionRva": "0x1a0f80"
+  },
+  {
+    "type": 35,
+    "name": "customizationtablecolor",
+    "nativeSize": 48,
+    "sizeFunctionRva": "0x1a0fa0"
+  },
+  {
+    "type": 36,
+    "name": "snddriverglobals",
+    "nativeSize": 120,
+    "sizeFunctionRva": "0x1a0fc0"
+  },
+  {
+    "type": 37,
+    "name": "fx",
+    "nativeSize": 144,
+    "sizeFunctionRva": "0x1a0fe0"
+  },
+  {
+    "type": 38,
+    "name": "tagfx",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1000"
+  },
+  {
+    "type": 39,
+    "name": "klf",
+    "nativeSize": 168,
+    "sizeFunctionRva": "0x1a1010"
+  },
+  {
+    "type": 40,
+    "name": "impactsfxtable",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1030"
+  },
+  {
+    "type": 41,
+    "name": "impactsoundstable",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a1050"
+  },
+  {
+    "type": 42,
+    "name": "player_character",
+    "nativeSize": 144,
+    "sizeFunctionRva": "0x1a1070"
+  },
+  {
+    "type": 43,
+    "name": "aitype",
+    "nativeSize": 1664,
+    "sizeFunctionRva": "0x1a1090"
+  },
+  {
+    "type": 44,
+    "name": "character",
+    "nativeSize": 624,
+    "sizeFunctionRva": "0x1a10a0"
+  },
+  {
+    "type": 45,
+    "name": "xmodelalias",
+    "nativeSize": 408,
+    "sizeFunctionRva": "0x1a10c0"
+  },
+  {
+    "type": 46,
+    "name": "rawfile",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a10e0"
+  },
+  {
+    "type": 47,
+    "name": "stringtable",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a1100"
+  },
+  {
+    "type": 48,
+    "name": "structuredtable",
+    "nativeSize": 56,
+    "sizeFunctionRva": "0x1a1120"
+  },
+  {
+    "type": 49,
+    "name": "leaderboarddef",
+    "nativeSize": 48,
+    "sizeFunctionRva": "0x1a1130"
+  },
+  {
+    "type": 50,
+    "name": "ddl",
+    "nativeSize": 16,
+    "sizeFunctionRva": "0x1a1150"
+  },
+  {
+    "type": 51,
+    "name": "glasses",
+    "nativeSize": 88,
+    "sizeFunctionRva": "0x1a1170"
+  },
+  {
+    "type": 52,
+    "name": "texturelist",
+    "nativeSize": 72,
+    "sizeFunctionRva": "0x1a1190"
+  },
+  {
+    "type": 53,
+    "name": "scriptparsetree",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a11b0"
+  },
+  {
+    "type": 54,
+    "name": "keyvaluepairs",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a11c0"
+  },
+  {
+    "type": 55,
+    "name": "vehicle",
+    "nativeSize": 2720,
+    "sizeFunctionRva": "0x1a11e0"
+  },
+  {
+    "type": 56,
+    "name": "addon_map_ents",
+    "nativeSize": 104,
+    "sizeFunctionRva": "0x1a1200"
+  },
+  {
+    "type": 57,
+    "name": "tracer",
+    "nativeSize": 152,
+    "sizeFunctionRva": "0x1a1220"
+  },
+  {
+    "type": 58,
+    "name": "slug",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1240"
+  },
+  {
+    "type": 59,
+    "name": "surfacefxtable",
+    "nativeSize": 328,
+    "sizeFunctionRva": "0x1a1250"
+  },
+  {
+    "type": 60,
+    "name": "surfacesounddef",
+    "nativeSize": 168,
+    "sizeFunctionRva": "0x1a1270"
+  },
+  {
+    "type": 61,
+    "name": "footsteptable",
+    "nativeSize": 64,
+    "sizeFunctionRva": "0x1a1290"
+  },
+  {
+    "type": 62,
+    "name": "entityfximpacts",
+    "nativeSize": 536,
+    "sizeFunctionRva": "0x1a12b0"
+  },
+  {
+    "type": 63,
+    "name": "entitysoundimpacts",
+    "nativeSize": 272,
+    "sizeFunctionRva": "0x1a12d0"
+  },
+  {
+    "type": 64,
+    "name": "zbarrier",
+    "nativeSize": 768,
+    "sizeFunctionRva": "0x1a12e0"
+  },
+  {
+    "type": 65,
+    "name": "vehiclefxdef",
+    "nativeSize": 984,
+    "sizeFunctionRva": "0x1a1300"
+  },
+  {
+    "type": 66,
+    "name": "vehiclesounddef",
+    "nativeSize": 4096,
+    "sizeFunctionRva": "0x1a1320"
+  },
+  {
+    "type": 67,
+    "name": "typeinfo",
+    "nativeSize": 8208,
+    "sizeFunctionRva": "0x1a1340"
+  },
+  {
+    "type": 68,
+    "name": "scriptbundle",
+    "nativeSize": 48,
+    "sizeFunctionRva": "0x1a1360"
+  },
+  {
+    "type": 69,
+    "name": "scriptbundlelist",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a1370"
+  },
+  {
+    "type": 70,
+    "name": "rumble",
+    "nativeSize": 64,
+    "sizeFunctionRva": "0x1a1390"
+  },
+  {
+    "type": 71,
+    "name": "bulletpenetration",
+    "nativeSize": 488,
+    "sizeFunctionRva": "0x1a13b0"
+  },
+  {
+    "type": 72,
+    "name": "locdmgtable",
+    "nativeSize": 96,
+    "sizeFunctionRva": "0x1a13d0"
+  },
+  {
+    "type": 73,
+    "name": "aimtable",
+    "nativeSize": 656,
+    "sizeFunctionRva": "0x1a13f0"
+  },
+  {
+    "type": 74,
+    "name": "animselectortable",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1400"
+  },
+  {
+    "type": 75,
+    "name": "animmappingtable",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1420"
+  },
+  {
+    "type": 76,
+    "name": "animstatemachine",
+    "nativeSize": 56,
+    "sizeFunctionRva": "0x1a1440"
+  },
+  {
+    "type": 77,
+    "name": "behaviortree",
+    "nativeSize": 40,
+    "sizeFunctionRva": "0x1a1460"
+  },
+  {
+    "type": 78,
+    "name": "behaviorstatemachine",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a1480"
+  },
+  {
+    "type": 79,
+    "name": "ttf",
+    "nativeSize": 131104,
+    "sizeFunctionRva": "0x1a1490"
+  },
+  {
+    "type": 80,
+    "name": "sanim",
+    "nativeSize": 112,
+    "sizeFunctionRva": "0x1a14b0"
+  },
+  {
+    "type": 81,
+    "name": "lightdescription",
+    "nativeSize": 576,
+    "sizeFunctionRva": "0x1a14d0"
+  },
+  {
+    "type": 82,
+    "name": "shellshock",
+    "nativeSize": 176,
+    "sizeFunctionRva": "0x1a14f0"
+  },
+  {
+    "type": 83,
+    "name": "xcam",
+    "nativeSize": 168,
+    "sizeFunctionRva": "0x1a1510"
+  },
+  {
+    "type": 84,
+    "name": "bgcache",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1520"
+  },
+  {
+    "type": 85,
+    "name": "texturecombo",
+    "nativeSize": 128,
+    "sizeFunctionRva": "0x1a1540"
+  },
+  {
+    "type": 86,
+    "name": "flametable",
+    "nativeSize": 536,
+    "sizeFunctionRva": "0x1a1560"
+  },
+  {
+    "type": 87,
+    "name": "bitfield",
+    "nativeSize": 32,
+    "sizeFunctionRva": "0x1a1580"
+  },
+  {
+    "type": 88,
+    "name": "attachmentcosmeticvariant",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a15a0"
+  },
+  {
+    "type": 89,
+    "name": "maptable",
+    "nativeSize": 40,
+    "sizeFunctionRva": "0x1a15b0"
+  },
+  {
+    "type": 90,
+    "name": "medal",
+    "nativeSize": 48,
+    "sizeFunctionRva": "0x1a15d0"
+  },
+  {
+    "type": 91,
+    "name": "medaltable",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a15f0"
+  },
+  {
+    "type": 92,
+    "name": "objective",
+    "nativeSize": 104,
+    "sizeFunctionRva": "0x1a1610"
+  },
+  {
+    "type": 93,
+    "name": "objectivelist",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1630"
+  },
+  {
+    "type": 94,
+    "name": "umbra_tome",
+    "nativeSize": null,
+    "sizeFunctionRva": null
+  },
+  {
+    "type": 95,
+    "name": "navmesh",
+    "nativeSize": 104,
+    "sizeFunctionRva": "0x1a1640"
+  },
+  {
+    "type": 96,
+    "name": "navvolume",
+    "nativeSize": 72,
+    "sizeFunctionRva": "0x1a1660"
+  },
+  {
+    "type": 97,
+    "name": "binaryhtml",
+    "nativeSize": 24,
+    "sizeFunctionRva": "0x1a1680"
+  },
+  {
+    "type": 98,
+    "name": "laser",
+    "nativeSize": 112,
+    "sizeFunctionRva": "0x1a16a0"
+  },
+  {
+    "type": 99,
+    "name": "beam",
+    "nativeSize": 640,
+    "sizeFunctionRva": "0x1a16c0"
+  },
+  {
+    "type": 100,
+    "name": "streamerhint",
+    "nativeSize": 40,
+    "sizeFunctionRva": "0x1a16d0"
+  }
+]

@@ -1,0 +1,697 @@
+{
+  "schema": 1,
+  "build": "T7 August 21 2015 PC",
+  "map": "maps/mp/mp_stronghold.d3dbsp",
+  "capturedGeometryValidated": true,
+  "completeLeafPointerCoverage": false,
+  "externalLeafRanges": [
+    {
+      "node": 8204,
+      "address": "0x18703997e",
+      "count": 1
+    },
+    {
+      "node": 8205,
+      "address": "0x187039980",
+      "count": 1
+    },
+    {
+      "node": 8206,
+      "address": "0x187039982",
+      "count": 1
+    },
+    {
+      "node": 8207,
+      "address": "0x187039984",
+      "count": 1
+    },
+    {
+      "node": 8208,
+      "address": "0x187039986",
+      "count": 1
+    },
+    {
+      "node": 8209,
+      "address": "0x187039988",
+      "count": 1
+    },
+    {
+      "node": 8210,
+      "address": "0x18703998a",
+      "count": 1
+    },
+    {
+      "node": 8211,
+      "address": "0x18703998c",
+      "count": 1
+    },
+    {
+      "node": 8212,
+      "address": "0x18703998e",
+      "count": 1
+    },
+    {
+      "node": 8213,
+      "address": "0x187039990",
+      "count": 1
+    },
+    {
+      "node": 8214,
+      "address": "0x187039992",
+      "count": 1
+    },
+    {
+      "node": 8215,
+      "address": "0x187039994",
+      "count": 1
+    },
+    {
+      "node": 8216,
+      "address": "0x187039996",
+      "count": 1
+    },
+    {
+      "node": 8217,
+      "address": "0x187039998",
+      "count": 1
+    },
+    {
+      "node": 8218,
+      "address": "0x18703999a",
+      "count": 1
+    },
+    {
+      "node": 8219,
+      "address": "0x18703999c",
+      "count": 1
+    },
+    {
+      "node": 8220,
+      "address": "0x18703999e",
+      "count": 1
+    },
+    {
+      "node": 8221,
+      "address": "0x1870399a0",
+      "count": 1
+    },
+    {
+      "node": 8222,
+      "address": "0x1870399a2",
+      "count": 1
+    },
+    {
+      "node": 8223,
+      "address": "0x1870399a4",
+      "count": 1
+    },
+    {
+      "node": 8224,
+      "address": "0x1870399a6",
+      "count": 1
+    },
+    {
+      "node": 8225,
+      "address": "0x1870399a8",
+      "count": 1
+    },
+    {
+      "node": 8226,
+      "address": "0x1870399aa",
+      "count": 1
+    },
+    {
+      "node": 8227,
+      "address": "0x1870399ac",
+      "count": 1
+    },
+    {
+      "node": 8228,
+      "address": "0x1870399ae",
+      "count": 1
+    },
+    {
+      "node": 8229,
+      "address": "0x1870399b0",
+      "count": 1
+    },
+    {
+      "node": 8230,
+      "address": "0x1870399b2",
+      "count": 1
+    },
+    {
+      "node": 8231,
+      "address": "0x1870399b4",
+      "count": 1
+    },
+    {
+      "node": 8232,
+      "address": "0x1870399b6",
+      "count": 1
+    },
+    {
+      "node": 8233,
+      "address": "0x1870399b8",
+      "count": 1
+    },
+    {
+      "node": 8234,
+      "address": "0x1870399ba",
+      "count": 1
+    },
+    {
+      "node": 8235,
+      "address": "0x1870399bc",
+      "count": 1
+    },
+    {
+      "node": 8236,
+      "address": "0x1870399be",
+      "count": 1
+    },
+    {
+      "node": 8237,
+      "address": "0x1870399c0",
+      "count": 1
+    },
+    {
+      "node": 8238,
+      "address": "0x1870399c2",
+      "count": 1
+    },
+    {
+      "node": 8239,
+      "address": "0x1870399c4",
+      "count": 1
+    },
+    {
+      "node": 8240,
+      "address": "0x1870399c6",
+      "count": 1
+    },
+    {
+      "node": 8241,
+      "address": "0x1870399c8",
+      "count": 1
+    },
+    {
+      "node": 8242,
+      "address": "0x1870399ca",
+      "count": 1
+    },
+    {
+      "node": 8243,
+      "address": "0x1870399cc",
+      "count": 1
+    },
+    {
+      "node": 8244,
+      "address": "0x1870399ce",
+      "count": 1
+    },
+    {
+      "node": 8245,
+      "address": "0x1870399d0",
+      "count": 1
+    },
+    {
+      "node": 8246,
+      "address": "0x1870399d2",
+      "count": 1
+    },
+    {
+      "node": 8247,
+      "address": "0x1870399d4",
+      "count": 1
+    },
+    {
+      "node": 8248,
+      "address": "0x1870399d6",
+      "count": 1
+    },
+    {
+      "node": 8249,
+      "address": "0x1870399d8",
+      "count": 1
+    },
+    {
+      "node": 8250,
+      "address": "0x1870399da",
+      "count": 1
+    },
+    {
+      "node": 8251,
+      "address": "0x1870399dc",
+      "count": 1
+    },
+    {
+      "node": 8252,
+      "address": "0x1870399de",
+      "count": 1
+    },
+    {
+      "node": 8253,
+      "address": "0x1870399e0",
+      "count": 1
+    },
+    {
+      "node": 8254,
+      "address": "0x1870399e2",
+      "count": 1
+    },
+    {
+      "node": 8255,
+      "address": "0x1870399e4",
+      "count": 1
+    },
+    {
+      "node": 8256,
+      "address": "0x1870399e6",
+      "count": 1
+    },
+    {
+      "node": 8257,
+      "address": "0x1870399e8",
+      "count": 1
+    },
+    {
+      "node": 8260,
+      "address": "0x1870399ea",
+      "count": 2
+    },
+    {
+      "node": 8261,
+      "address": "0x1870399ee",
+      "count": 2
+    },
+    {
+      "node": 8262,
+      "address": "0x1870399f2",
+      "count": 3
+    },
+    {
+      "node": 8263,
+      "address": "0x1870399f8",
+      "count": 3
+    },
+    {
+      "node": 8264,
+      "address": "0x1870399fe",
+      "count": 2
+    },
+    {
+      "node": 8265,
+      "address": "0x187039a02",
+      "count": 1
+    },
+    {
+      "node": 8266,
+      "address": "0x187039a04",
+      "count": 2
+    },
+    {
+      "node": 8267,
+      "address": "0x187039a08",
+      "count": 1
+    },
+    {
+      "node": 8268,
+      "address": "0x187039a0a",
+      "count": 1
+    },
+    {
+      "node": 8269,
+      "address": "0x187039a0c",
+      "count": 1
+    },
+    {
+      "node": 8270,
+      "address": "0x187039a0e",
+      "count": 1
+    },
+    {
+      "node": 8271,
+      "address": "0x187039a10",
+      "count": 1
+    },
+    {
+      "node": 8272,
+      "address": "0x187039a12",
+      "count": 1
+    },
+    {
+      "node": 8273,
+      "address": "0x187039a14",
+      "count": 1
+    },
+    {
+      "node": 8274,
+      "address": "0x187039a16",
+      "count": 1
+    },
+    {
+      "node": 8275,
+      "address": "0x187039a18",
+      "count": 1
+    },
+    {
+      "node": 8276,
+      "address": "0x187039a1a",
+      "count": 1
+    },
+    {
+      "node": 8277,
+      "address": "0x187039a1c",
+      "count": 1
+    },
+    {
+      "node": 8278,
+      "address": "0x187039a1e",
+      "count": 1
+    },
+    {
+      "node": 8279,
+      "address": "0x187039a20",
+      "count": 1
+    },
+    {
+      "node": 8280,
+      "address": "0x187039a22",
+      "count": 1
+    },
+    {
+      "node": 8281,
+      "address": "0x187039a24",
+      "count": 1
+    },
+    {
+      "node": 8282,
+      "address": "0x187039a26",
+      "count": 1
+    },
+    {
+      "node": 8283,
+      "address": "0x187039a28",
+      "count": 1
+    },
+    {
+      "node": 8284,
+      "address": "0x187039a2a",
+      "count": 3
+    },
+    {
+      "node": 8285,
+      "address": "0x187039a30",
+      "count": 1
+    },
+    {
+      "node": 8286,
+      "address": "0x187039a32",
+      "count": 1
+    },
+    {
+      "node": 8287,
+      "address": "0x187039a34",
+      "count": 1
+    },
+    {
+      "node": 8288,
+      "address": "0x187039a36",
+      "count": 1
+    },
+    {
+      "node": 8289,
+      "address": "0x187039a38",
+      "count": 1
+    },
+    {
+      "node": 8290,
+      "address": "0x187039a3a",
+      "count": 1
+    },
+    {
+      "node": 8291,
+      "address": "0x187039a3c",
+      "count": 1
+    },
+    {
+      "node": 8292,
+      "address": "0x187039a3e",
+      "count": 1
+    },
+    {
+      "node": 8293,
+      "address": "0x187039a40",
+      "count": 1
+    },
+    {
+      "node": 8294,
+      "address": "0x187039a42",
+      "count": 1
+    },
+    {
+      "node": 8295,
+      "address": "0x187039a44",
+      "count": 1
+    },
+    {
+      "node": 8296,
+      "address": "0x187039a46",
+      "count": 1
+    },
+    {
+      "node": 8297,
+      "address": "0x187039a48",
+      "count": 1
+    },
+    {
+      "node": 8298,
+      "address": "0x187039a4a",
+      "count": 1
+    },
+    {
+      "node": 8299,
+      "address": "0x187039a4c",
+      "count": 1
+    },
+    {
+      "node": 8300,
+      "address": "0x187039a4e",
+      "count": 1
+    },
+    {
+      "node": 8301,
+      "address": "0x187039a50",
+      "count": 1
+    },
+    {
+      "node": 8302,
+      "address": "0x187039a52",
+      "count": 1
+    },
+    {
+      "node": 8303,
+      "address": "0x187039a54",
+      "count": 1
+    },
+    {
+      "node": 8304,
+      "address": "0x187039a56",
+      "count": 1
+    },
+    {
+      "node": 8305,
+      "address": "0x187039a58",
+      "count": 1
+    },
+    {
+      "node": 8306,
+      "address": "0x187039a5a",
+      "count": 1
+    },
+    {
+      "node": 8307,
+      "address": "0x187039a5c",
+      "count": 1
+    },
+    {
+      "node": 8308,
+      "address": "0x187039a5e",
+      "count": 1
+    },
+    {
+      "node": 8309,
+      "address": "0x187039a60",
+      "count": 1
+    },
+    {
+      "node": 8310,
+      "address": "0x187039a62",
+      "count": 1
+    },
+    {
+      "node": 8311,
+      "address": "0x187039a64",
+      "count": 1
+    },
+    {
+      "node": 8312,
+      "address": "0x187039a66",
+      "count": 1
+    }
+  ],
+  "worldSurfaces": 2456,
+  "worldVertices": 335033,
+  "worldTriangles": 384612,
+  "sharedVertexBatches": 367,
+  "unreferencedIndices": 0,
+  "overlappingSurfaceIndices": 0,
+  "collisionBrushes": 14535,
+  "collisionSides": 90637,
+  "terrainTriangles": 153810,
+  "entities": 1584,
+  "unavailableRecords": [
+    {
+      "address": "0x0",
+      "count": 14535,
+      "label": "clip_brush_bounds",
+      "status": "unavailable",
+      "stride": 24
+    },
+    {
+      "address": "0x0",
+      "count": 14535,
+      "label": "clip_brush_contents",
+      "status": "unavailable",
+      "stride": 4
+    }
+  ],
+  "files": {
+    "gfxworld": {
+      "bytes": 8256,
+      "sha256": "3a1be8602ef04cb35abea850e3571d73e3736c49abe34dba6da4511c9f06b40c"
+    },
+    "clipmap": {
+      "bytes": 720,
+      "sha256": "95a04821a5a02a8e88f1884f946c09683800b3911ccfebec38959297eee652a1"
+    },
+    "clip_planes": {
+      "bytes": 630820,
+      "sha256": "29ab2f8b04d1a08dc69b0f473c79b48792207230ba27ca08de6c3d7aeac55921"
+    },
+    "clip_materials": {
+      "bytes": 9024,
+      "sha256": "046f3471fce808797d6bd6688ab38489a3e4c96da97219e7c7942fbcbaac4d69"
+    },
+    "clip_brush_sides": {
+      "bytes": 1450192,
+      "sha256": "b34b8f664d6b71ea140aa07c7d5b48f2cbd400b9d148f3b3e4ade650a8e8ca52"
+    },
+    "clip_leaf_brush_nodes": {
+      "bytes": 199512,
+      "sha256": "0701ed22f762870cde73be3fa88bb5c124947e0fb83ed21f72ea997270ec4115"
+    },
+    "clip_leaf_brushes": {
+      "bytes": 29070,
+      "sha256": "31fadb8d52d25535b05847cff74b77e7ea08edb2b122db4ebf5a61cc27bb579f"
+    },
+    "clip_vertices": {
+      "bytes": 1657308,
+      "sha256": "51571be0ce6a2c62a50a0c0222632caa76daeb953459e56800c6ce90ab543dcc"
+    },
+    "clip_indices": {
+      "bytes": 813228,
+      "sha256": "f4bfe1d7fb48429d5fd75b9d270e5af9807a1b675b6e6444bdfc293855252182"
+    },
+    "clip_brushes": {
+      "bytes": 1627920,
+      "sha256": "03d5e4687548454f90b354ae7aa071d73461df65c187a73006c633ceac1cc039"
+    },
+    "terrain_vertices": {
+      "bytes": 1013256,
+      "sha256": "8bd7c08afce1972a14b299ae5c78db5d7a7a8b640e26cf1d47ac69af2c47b243"
+    },
+    "terrain_triangles": {
+      "bytes": 1845720,
+      "sha256": "528f80eeef6305bb7c8576f39e00340e06668ff1253f8771bd2bae879f6dca2f"
+    },
+    "world_vertex_stream0": {
+      "bytes": 4020396,
+      "sha256": "d3b541a63e89f4db5937e693a0df0a5acca0cd8e085d2f30fa408f5e488073b5"
+    },
+    "world_vertex_stream1": {
+      "bytes": 6700660,
+      "sha256": "e1fbb6e7604b59166b2d4cf840ec3b683bc7f5c6d93399f9adb6c7e5b1a4cabd"
+    },
+    "world_indices": {
+      "bytes": 2307672,
+      "sha256": "07579a741d1864eca10f858e977508e7cb6d37f66381e9a685d390f9c658725d"
+    },
+    "world_surfaces": {
+      "bytes": 235776,
+      "sha256": "dcd48bcba69410382aebaf9aa3730de66a08575576204769ac9c2254d654a13a"
+    },
+    "world_static_model_draw": {
+      "bytes": 1497352,
+      "sha256": "832877c84e686574c539935dc6f1e4b29b5ae1360aa07d7749c7ae49a608afe6"
+    },
+    "mapents": {
+      "bytes": 72,
+      "sha256": "f3d14d40b314a582eed39cefba7cf0abe56bbad47572d37ce450633178f25551"
+    },
+    "entity_string": {
+      "bytes": 376564,
+      "sha256": "5ad22824a8e3acd9fe077418a95e0c9b69667d447f5c042e1baa0f669b7df5fe"
+    },
+    "trigger_models": {
+      "bytes": 424,
+      "sha256": "46b82ab3e9bc8be549b71e0ef8457a2a45d4335939758b5c010e8c5e526769c8"
+    },
+    "trigger_hulls": {
+      "bytes": 1792,
+      "sha256": "aaac5f4242e31cff13817717b698f84b68aea4f8276daa09cb96aecd0d98f04f"
+    },
+    "trigger_slabs": {
+      "bytes": 1620,
+      "sha256": "98710d3b3f3f0aef3eaaae6faf0d25fcfeacdbf393975f6eb1e89c81e6ff074c"
+    }
+  },
+  "zoneMatches": {
+    "world_vertex_stream0": {
+      "offset": "0x8cbd65c",
+      "bytes": 4020396,
+      "exactMatch": true
+    },
+    "world_vertex_stream1": {
+      "offset": "0x9092f08",
+      "bytes": 6700660,
+      "exactMatch": true
+    },
+    "world_indices": {
+      "offset": "0x96f6d7c",
+      "bytes": 2307672,
+      "exactMatch": true
+    },
+    "clip_planes": {
+      "offset": "0x8a93a74",
+      "bytes": 630820,
+      "exactMatch": true
+    },
+    "clip_vertices": {
+      "offset": "0xadc4a50",
+      "bytes": 1657308,
+      "exactMatch": true
+    },
+    "terrain_vertices": {
+      "offset": "0xb23fe18",
+      "bytes": 1013256,
+      "exactMatch": true
+    },
+    "terrain_triangles": {
+      "offset": "0xb337420",
+      "bytes": 1845720,
+      "exactMatch": true
+    }
+  }
+}

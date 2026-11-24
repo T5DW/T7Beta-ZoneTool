@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "target": "T7 August 21 2015 PC",
+  "zone": "t7zt_stronghold_entities",
+  "purpose": "native-loader-probe",
+  "playableMap": false,
+  "inGameValidated": false,
+  "bytes": 48356,
+  "sha256": "4a1b5c14bd34d3e13ff916dba3ae57bc138a16efc3e506f197afa00941091799",
+  "compression": "zlib",
+  "blocks": 6,
+  "allocationCapacities": [
+    8264,
+    0,
+    0,
+    0,
+    0,
+    388696,
+    0,
+    0,
+    0,
+    0
+  ],
+  "assets": [
+    {
+      "index": 0,
+      "type": 15,
+      "name": "map_ents",
+      "headerPointer": "0xffffffffffffffff"
+    }
+  ],
+  "writes": [
+    {
+      "label": "MapEnts",
+      "fileOffset": 72,
+      "block": 0,
+      "logicalOffset": 0,
+      "bytes": 72,
+      "alignment": 8
+    },
+    {
+      "label": "MapEnts.name",
+      "fileOffset": 144,
+      "block": 5,
+      "logicalOffset": 72,
+      "bytes": 29,
+      "alignment": 1
+    },
+    {
+      "label": "MapEnts.entityString",
+      "fileOffset": 173,
+      "block": 5,
+      "logicalOffset": 101,
+      "bytes": 376564,
+      "alignment": 1
+    },
+    {
+      "label": "MapTriggers.models",
+      "fileOffset": 376737,
+      "block": 5,
+      "logicalOffset": 376668,
+      "bytes": 424,
+      "alignment": 4
+    },
+    {
+      "label": "MapTriggers.hulls",
+      "fileOffset": 377161,
+      "block": 5,
+      "logicalOffset": 377092,
+      "bytes": 1792,
+      "alignment": 4
+    },
+    {
+      "label": "MapTriggers.slabs",
+      "fileOffset": 378953,
+      "block": 5,
+      "logicalOffset": 378884,
+      "bytes": 1620,
+      "alignment": 4
+    }
+  ]
+}

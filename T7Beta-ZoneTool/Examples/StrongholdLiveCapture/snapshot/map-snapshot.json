@@ -1,0 +1,200 @@
+{
+  "build": "T7 August 21 2015 PC",
+  "bytes": 24427354,
+  "map": "maps/mp/mp_stronghold.d3dbsp",
+  "moduleBase": "0x140000000",
+  "records": [
+    {
+      "address": "0x14357ca20",
+      "count": 1,
+      "file": "gfxworld.bin",
+      "label": "gfxworld",
+      "status": "saved",
+      "stride": 8256
+    },
+    {
+      "address": "0x145f250a0",
+      "count": 1,
+      "file": "clipmap.bin",
+      "label": "clipmap",
+      "status": "saved",
+      "stride": 720
+    },
+    {
+      "address": "0x1856d314c",
+      "count": 31541,
+      "file": "clip_planes.bin",
+      "label": "clip_planes",
+      "status": "saved",
+      "stride": 20
+    },
+    {
+      "address": "0x186e9b830",
+      "count": 564,
+      "file": "clip_materials.bin",
+      "label": "clip_materials",
+      "status": "saved",
+      "stride": 16
+    },
+    {
+      "address": "0x186e9fbc8",
+      "count": 90637,
+      "file": "clip_brush_sides.bin",
+      "label": "clip_brush_sides",
+      "status": "saved",
+      "stride": 16
+    },
+    {
+      "address": "0x187001c98",
+      "count": 8313,
+      "file": "clip_leaf_brush_nodes.bin",
+      "label": "clip_leaf_brush_nodes",
+      "status": "saved",
+      "stride": 24
+    },
+    {
+      "address": "0x1870327f0",
+      "count": 14535,
+      "file": "clip_leaf_brushes.bin",
+      "label": "clip_leaf_brushes",
+      "status": "saved",
+      "stride": 2
+    },
+    {
+      "address": "0x187039a68",
+      "count": 138109,
+      "file": "clip_vertices.bin",
+      "label": "clip_vertices",
+      "status": "saved",
+      "stride": 12
+    },
+    {
+      "address": "0x1871ce444",
+      "count": 203307,
+      "file": "clip_indices.bin",
+      "label": "clip_indices",
+      "status": "saved",
+      "stride": 4
+    },
+    {
+      "address": "0x187294d00",
+      "count": 14535,
+      "file": "clip_brushes.bin",
+      "label": "clip_brushes",
+      "status": "saved",
+      "stride": 112
+    },
+    {
+      "address": "0x0",
+      "count": 14535,
+      "label": "clip_brush_bounds",
+      "status": "unavailable",
+      "stride": 24
+    },
+    {
+      "address": "0x0",
+      "count": 14535,
+      "label": "clip_brush_contents",
+      "status": "unavailable",
+      "stride": 4
+    },
+    {
+      "address": "0x1874b4e40",
+      "count": 84438,
+      "file": "terrain_vertices.bin",
+      "label": "terrain_vertices",
+      "status": "saved",
+      "stride": 12
+    },
+    {
+      "address": "0x1875ac448",
+      "count": 153810,
+      "file": "terrain_triangles.bin",
+      "label": "terrain_triangles",
+      "status": "saved",
+      "stride": 12
+    },
+    {
+      "address": "0x1857a7700",
+      "count": 4020396,
+      "file": "world_vertex_stream0.bin",
+      "label": "world_vertex_stream0",
+      "status": "saved",
+      "stride": 1
+    },
+    {
+      "address": "0x185b7d000",
+      "count": 6700660,
+      "file": "world_vertex_stream1.bin",
+      "label": "world_vertex_stream1",
+      "status": "saved",
+      "stride": 1
+    },
+    {
+      "address": "0x1861e0e74",
+      "count": 1153836,
+      "file": "world_indices.bin",
+      "label": "world_indices",
+      "status": "saved",
+      "stride": 2
+    },
+    {
+      "address": "0x1864417d0",
+      "count": 2456,
+      "file": "world_surfaces.bin",
+      "label": "world_surfaces",
+      "status": "saved",
+      "stride": 96
+    },
+    {
+      "address": "0x18647b0d0",
+      "count": 9851,
+      "file": "world_static_model_draw.bin",
+      "label": "world_static_model_draw",
+      "status": "saved",
+      "stride": 152
+    },
+    {
+      "address": "0x1451f8a10",
+      "count": 1,
+      "file": "mapents.bin",
+      "label": "mapents",
+      "status": "saved",
+      "stride": 72
+    },
+    {
+      "address": "0x187990180",
+      "count": 376564,
+      "file": "entity_string.bin",
+      "label": "entity_string",
+      "status": "saved",
+      "stride": 1
+    },
+    {
+      "address": "0x1879ec074",
+      "count": 53,
+      "file": "trigger_models.bin",
+      "label": "trigger_models",
+      "status": "saved",
+      "stride": 8
+    },
+    {
+      "address": "0x1879ec21c",
+      "count": 56,
+      "file": "trigger_hulls.bin",
+      "label": "trigger_hulls",
+      "status": "saved",
+      "stride": 32
+    },
+    {
+      "address": "0x1879ec91c",
+      "count": 81,
+      "file": "trigger_slabs.bin",
+      "label": "trigger_slabs",
+      "status": "saved",
+      "stride": 20
+    }
+  ],
+  "schema": 1,
+  "unavailableArrays": 2
+}

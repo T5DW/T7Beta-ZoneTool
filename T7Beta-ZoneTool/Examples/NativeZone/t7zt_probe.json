@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "target": "T7 August 21 2015 PC",
+  "zone": "t7zt_probe",
+  "purpose": "native-loader-probe",
+  "playableMap": false,
+  "inGameValidated": false,
+  "bytes": 840,
+  "sha256": "8f05fc1e89b5bd2213fcb2305ab841f018b163a539dc50e02cf8ff1ba3f3f148",
+  "compression": "stored",
+  "blocks": 1,
+  "allocationCapacities": [
+    8216,
+    0,
+    0,
+    0,
+    0,
+    8325,
+    0,
+    0,
+    0,
+    0
+  ],
+  "assets": [
+    {
+      "index": 0,
+      "type": 46,
+      "name": "rawfile",
+      "headerPointer": "0xffffffffffffffff"
+    }
+  ],
+  "writes": [
+    {
+      "label": "RawFile",
+      "fileOffset": 72,
+      "block": 0,
+      "logicalOffset": 0,
+      "bytes": 24,
+      "alignment": 8
+    },
+    {
+      "label": "RawFile.name",
+      "fileOffset": 96,
+      "block": 5,
+      "logicalOffset": 72,
+      "bytes": 15,
+      "alignment": 1
+    },
+    {
+      "label": "RawFile.buffer",
+      "fileOffset": 111,
+      "block": 5,
+      "logicalOffset": 87,
+      "bytes": 46,
+      "alignment": 1
+    }
+  ]
+}

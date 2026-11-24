@@ -1,0 +1,8 @@
+The IWI6 wavelet decoder is backported from OpenAssetTools v0.34.0.
+Upstream commit 28b14ea0ee41844cfad9875176f9dc693db045cf.
+https://github.com/Laupetin/OpenAssetTools
+The decoder and its loader integration retain the upstream GPL-3.0 license.
+The remaining extractor targets v0.33.0 commit
+7d027e8f89118196713e955b0e11f8404149c54d.
+Apply configure_exporters.ps1, regenerate the OAT build files, and build both
+Unlinker and ImageConverter to include the wavelet decoder.
